@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\etudiant.e\Desktop\hiss course\eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1929435270.index
+4190876290.index

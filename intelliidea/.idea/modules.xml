@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/intelliidea.iml" filepath="$PROJECT_DIR$/.idea/intelliidea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p05072024/p05072024.iml" filepath="$PROJECT_DIR$/p05072024/p05072024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p11072024/p11072024.iml" filepath="$PROJECT_DIR$/p11072024/p11072024.iml" />
+    </modules>
+  </component>
+</project>
